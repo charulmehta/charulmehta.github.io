@@ -34,12 +34,11 @@ text-decoration: underline;}
 </style>
 
 <body background="1.jpg"> 
-<div class=container-fluid>
+
 <img src="my_pic.jpg" style="width:300px">
    
 <h1>Hello!!!!</h1>
 <a href="newHtml.html" onclick=welcome()>WALK ALONG<a>
-</div>
 <script>
 function welcome() {
     alert("Welcome to my page!");
